@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../example/.idea/example.iml" filepath="$PROJECT_DIR$/../example/.idea/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine_learning_lab/.idea/machine_learning_lab.iml" filepath="$PROJECT_DIR$/../machine_learning_lab/.idea/machine_learning_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/speech_recognition.iml" filepath="$PROJECT_DIR$/.idea/speech_recognition.iml" />
+    </modules>
+  </component>
+</project>
